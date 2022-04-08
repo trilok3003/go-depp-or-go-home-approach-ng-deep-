@@ -1,0 +1,4 @@
+app-parent ::ng-deep .parent {
+  /* background: blue; */
+  background: var(--parentBg, blue);
+}
